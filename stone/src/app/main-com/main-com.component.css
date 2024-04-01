@@ -1,0 +1,57 @@
+.main_btn{
+margin-top: 100px;
+height: 250px;
+width: 250px;
+border-radius: 100%;
+font-size: 50px;
+font-style:oblique;
+
+
+}
+
+
+
+
+
+.human{
+    margin:10px ;
+height:150px;
+width: 120px;
+font-size: 20px;
+font-weight: 600;
+text-transform: uppercase;
+border-radius: 50%;
+background-color:rgb(76, 155, 158);
+border-color:black;
+border-width: 5px;
+
+
+
+}
+.human:hover{
+    background-image: linear-gradient(black,skyblue,white);
+    color: black;
+}
+.container{
+    background-color:lemonchiffon;
+    
+}
+.main_box{
+border: solid ;
+border-radius:111px;
+border-width: 8px;
+border-color: black;
+
+
+
+
+}
+.vedio{
+
+    border: 100px;;
+    border-width: 100%;
+    height: 180px;
+    border-color:black;
+    
+
+}
